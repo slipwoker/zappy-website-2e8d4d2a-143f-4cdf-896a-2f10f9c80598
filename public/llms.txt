@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://example.com
+https://emet-jewelry.zappy5.app
 מחפשים תכשיטים שבאו מחנויות בבילו סנטר? ב״תכשיטי האמת״ כל פריט מספר סיפור ייחודי. היכנסו לגלות אוספים מלאי משמעות ולמצוא את התכשיט שמדבר אליכם באמת.
 
 ### אוספים
-https://example.com/collections
+https://emet-jewelry.zappy5.app/collections
 האוספים שלנו מחכים לכם: צמידי גומילום בעבודת יד, שרשראות חברות וצמידי חרוזים שזוכים למשמעות עמוקה. לכל תכשיט יש סיפור – מצאו את שלכם עוד היום!
 
 ### משמעות
-https://example.com/meaning
+https://emet-jewelry.zappy5.app/meaning
 מה הופך צמיד בהתאמה אישית לקמע של ממש? בעמוד המשמעות נחשוף את הסיפורים והסמלים שמאחורי כל פריט. בואו להעניק עומק חדש לתכשיטים שלכם.
 
 ### אודות
-https://example.com/about
+https://emet-jewelry.zappy5.app/about
 ״תכשיטי האמת״ נולדו מתוך אמונה שלכל תכשיט יש משמעות. הכירו את החזון, הערכים והתשוקה שמאחורי צמידי גומילום בעבודת יד ותכשיטים שמגיעים עד לקריית עקרון.
 
 ### צור קשר
-https://example.com/contact
+https://emet-jewelry.zappy5.app/contact
 רוצים צמידים בהתאמה אישית או שרשראות חברות מלאות משמעות? צרו קשר עם ״תכשיטי האמת״ ונשמח לעזור לכם למצוא את התכשיט המושלם, גם אם אתם מלקריית עקרון.
 
 ### תודה שפנית אלינו
-https://example.com/thank-you
+https://emet-jewelry.zappy5.app/thank-you
 תכשיטי האמת - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://emet-jewelry.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://emet-jewelry.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://emet-jewelry.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -54,8 +54,8 @@ Information about WCAG compliance and accessibility features.
 - Address: חבצלת 16, קריית עקרון, מחוז המרכז , 7695000, ישראל
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://emet-jewelry.zappy5.app/contact
+- Endpoint: https://emet-jewelry.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -85,6 +85,6 @@ Jewelry
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://emet-jewelry.zappy5.app/sitemap.xml
+- Robots: https://emet-jewelry.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://emet-jewelry.zappy5.app/llms-full.txt
