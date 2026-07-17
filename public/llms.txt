@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-2e8d4d2a.zappy5.app
+https://example.com
 מחפשים תכשיטים שבאו מחנויות בבילו סנטר? ב״תכשיטי האמת״ כל פריט מספר סיפור ייחודי. היכנסו לגלות אוספים מלאי משמעות ולמצוא את התכשיט שמדבר אליכם באמת.
 
 ### אוספים
-https://-2e8d4d2a.zappy5.app/collections
+https://example.com/collections
 האוספים שלנו מחכים לכם: צמידי גומילום בעבודת יד, שרשראות חברות וצמידי חרוזים שזוכים למשמעות עמוקה. לכל תכשיט יש סיפור – מצאו את שלכם עוד היום!
 
 ### משמעות
-https://-2e8d4d2a.zappy5.app/meaning
+https://example.com/meaning
 מה הופך צמיד בהתאמה אישית לקמע של ממש? בעמוד המשמעות נחשוף את הסיפורים והסמלים שמאחורי כל פריט. בואו להעניק עומק חדש לתכשיטים שלכם.
 
 ### אודות
-https://-2e8d4d2a.zappy5.app/about
+https://example.com/about
 ״תכשיטי האמת״ נולדו מתוך אמונה שלכל תכשיט יש משמעות. הכירו את החזון, הערכים והתשוקה שמאחורי צמידי גומילום בעבודת יד ותכשיטים שמגיעים עד לקריית עקרון.
 
 ### צור קשר
-https://-2e8d4d2a.zappy5.app/contact
+https://example.com/contact
 רוצים צמידים בהתאמה אישית או שרשראות חברות מלאות משמעות? צרו קשר עם ״תכשיטי האמת״ ונשמח לעזור לכם למצוא את התכשיט המושלם, גם אם אתם מלקריית עקרון.
 
 ### תודה שפנית אלינו
-https://-2e8d4d2a.zappy5.app/thank-you
+https://example.com/thank-you
 תכשיטי האמת - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-2e8d4d2a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-2e8d4d2a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-2e8d4d2a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-2e8d4d2a.zappy5.app/contact
-- Endpoint: https://-2e8d4d2a.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Jewelry
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-2e8d4d2a.zappy5.app/sitemap.xml
-- Robots: https://-2e8d4d2a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-2e8d4d2a.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
