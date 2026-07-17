@@ -51,7 +51,7 @@ Information about WCAG compliance and accessibility features.
 - Email: hodayahamud@gmail.com
 - Phone: +972587261213
 - Phone (tel): tel:+972587261213
-- Address: חבצלת גן דורותי, קריית עקרון, מחוז המרכז , 7695000, ישראל
+- Address: חבצלת 16, קריית עקרון, מחוז המרכז , 7695000, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
